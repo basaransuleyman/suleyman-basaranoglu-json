@@ -1,0 +1,346 @@
+{
+  "data": {
+    "sections": [
+      {
+        "type": 0,
+        "data": [
+          {
+            "icon": "",
+            "text": "Giyim"
+          },
+          {
+            "icon": "",
+            "text": "Yemek"
+          },
+          {
+            "icon": "",
+            "text": "Kozmetik"
+          },
+          {
+            "icon": "",
+            "text": "Market"
+          },
+          {
+            "icon": "",
+            "text": "Spor"
+          },
+          {
+            "icon": "",
+            "text": "Hablerler"
+          },
+          {
+            "icon": "",
+            "text": "Borsa"
+          },
+          {
+            "icon": "",
+            "text": "Sosyal Medya"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "data": [
+          {
+            "image": "",
+            "data": "101"
+          },
+          {
+            "image": "",
+            "data": "102"
+          },
+          {
+            "image": "",
+            "data": "101"
+          },
+          {
+            "image": "",
+            "data": "102"
+          }
+        ]
+      },
+      {
+        "type": 2,
+        "sectionTitle": "Slidable Products",
+        "data": [
+          {
+            "productId": "1000",
+            "productImage": "",
+            "text": "Summer Sandals",
+            "subText": "304.45",
+            "review": "230 Comments",
+            "questions": "13 Answer",
+            "rating": "9.6",
+            "share": "Yazlık Sandalet Link"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1002",
+            "productImage": "",
+            "text": "Phone 8 X.E",
+            "subText": "14679.90"
+          },
+          {
+            "productId": "1001",
+            "productImage": "",
+            "text": "Men's Knitwear Shirt",
+            "subText": "99.90"
+          }
+        ]
+      },
+      {
+        "type": 3,
+        "sectionTitle": "FlexBox Products",
+        "data": [
+          {
+            "productId": "1000",
+            "productImage": "",
+            "text": "Summer Sandals",
+            "subText": "304.45",
+            "review": "230 Comments",
+            "questions": "13 Answer",
+            "rating": "9.6",
+            "share": "Yazlık Sandalet Link"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1001",
+            "productImage": "",
+            "text": "Men's Knitwear Shirt",
+            "subText": "99.90"
+          },
+          {
+            "productId": "1002",
+            "productImage": "",
+            "text": "Phone 8 X.E",
+            "subText": "14679.90"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          }
+        ]
+      },
+      {
+        "type": 4,
+        "sectionTitle": "Vertical Products",
+        "data": [
+          {
+            "productId": "1000",
+            "productImage": "",
+            "text": "Summer Sandals",
+            "subText": "304.45",
+            "review": "230 Comments",
+            "questions": "13 Answer",
+            "rating": "9.6",
+            "share": "Yazlık Sandalet Link"
+          },
+          {
+            "productId": "1001",
+            "productImage": "",
+            "text": "Men's Knitwear Shirt",
+            "subText": "99.90"
+          },
+          {
+            "productId": "1002",
+            "productImage": "",
+            "text": "Phone 8 X.E",
+            "subText": "14679.90"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1001",
+            "productImage": "",
+            "text": "Men's Knitwear Shirt",
+            "subText": "99.90"
+          },
+          {
+            "productId": "1002",
+            "productImage": "",
+            "text": "Phone 8 X.E",
+            "subText": "14679.90"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          },
+          {
+            "productId": "1005",
+            "productImage": "",
+            "text": "Bluetooth Mouse",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1004",
+            "productImage": "",
+            "text": "Headphone Bluetooth",
+            "subText": "9730.60"
+          },
+          {
+            "productId": "1001",
+            "productImage": "",
+            "text": "Men's Knitwear Shirt",
+            "subText": "99.90"
+          },
+          {
+            "productId": "1002",
+            "productImage": "",
+            "text": "Phone 8 X.E",
+            "subText": "14679.90"
+          },
+          {
+            "productId": "1003",
+            "productImage": "",
+            "text": "Daisy Bunch",
+            "subText": "73.20"
+          }
+        ]
+      }
+    ]
+  }
+}
