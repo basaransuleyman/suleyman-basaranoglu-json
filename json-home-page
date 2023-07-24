@@ -3,7 +3,7 @@
     "sections": [
       {
         "type": 0,
-        "data": [
+        "sectionData": [
           {
             "icon": "https://www.svgrepo.com/show/422275/clothes-clothing-garment.svg",
             "text": "Clothes"
@@ -40,7 +40,7 @@
       },
       {
         "type": 1,
-        "data": [
+        "sectionData": [
           {
             "image": "https://images.unsplash.com/photo-1549482199-bc1ca6f58502?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
             "navigationData": "101"
@@ -62,7 +62,7 @@
       {
         "type": 2,
         "sectionTitle": "Slidable Products",
-        "data": [
+        "sectionData": [
           {
             "productId": "1000",
             "productImage": "https://www.ollieandnic.com/cdn/shop/products/Macey-Sandals-Cream-2.jpg?v=1646840147&width=720",
@@ -108,7 +108,7 @@
       {
         "type": 3,
         "sectionTitle": "FlexBox Products",
-        "data": [
+        "sectionData": [
           {
             "productId": "1000",
             "productImage": "https://www.ollieandnic.com/cdn/shop/products/Macey-Sandals-Cream-2.jpg?v=1646840147&width=720",
@@ -154,7 +154,7 @@
       {
         "type": 4,
         "sectionTitle": "Vertical Products",
-        "data": [
+        "sectionData": [
           {
             "productId": "1000",
             "productImage": "https://www.ollieandnic.com/cdn/shop/products/Macey-Sandals-Cream-2.jpg?v=1646840147&width=720",
