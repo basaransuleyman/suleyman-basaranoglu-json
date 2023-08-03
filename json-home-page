@@ -111,13 +111,18 @@
       "sectionData": [
         {
           "productId": "1000",
-          "productImage": "https://www.ollieandnic.com/cdn/shop/products/Macey-Sandals-Cream-2.jpg?v=1646840147&width=720",
-          "text": "Summer Sandals",
+          "productImage": "https://m.media-amazon.com/images/I/61cSDZpf36L._AC_SY625_.jpg",
+          "text": "Sandals",
           "subText": "304.45",
           "review": "230 Comments",
           "questions": "13 Answer",
           "rating": "9.6",
           "share": "Yazlık Sandalet Link"
+        },        {
+          "productId": "1006",
+          "productImage": "https://m.media-amazon.com/images/I/61mvgeTZMvL._AC_SL1500_.jpg",
+          "text": "Toy",
+          "subText": "9730.60"
         },
         {
           "productId": "1004",
@@ -127,8 +132,8 @@
         },
         {
           "productId": "1001",
-          "productImage": "https://www.highsnobiety.com/static-assets/thumbor/f-gb_L-XdouCgjFtLd7B_d6jops=/1500x1000/whatdropsnow.s3.amazonaws.com/product_image/195752/shrine_image/886ce62a990da3a3944e062b42d47e95.jpg",
-          "text": "Men's Knitwear Shirt",
+          "productImage": "https://m.media-amazon.com/images/I/71D5rchrAWL._AC_SY741_.jpg",
+          "text": "Knitwear Shirt",
           "subText": "99.90"
         },
         {
@@ -148,6 +153,12 @@
           "productImage": "https://m.media-amazon.com/images/I/51VOI6vjw2L._AC_SX679_.jpg",
           "text": "Bluetooth Mouse",
           "subText": "9730.60"
+        },
+        {
+          "productId": "1007",
+          "productImage": "https://m.media-amazon.com/images/I/71i+Wj3oDAL._AC_SY300_SX300_.jpg",
+          "text": "Cat Food",
+          "subText": "30.60"
         }
       ]
     },
