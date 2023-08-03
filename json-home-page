@@ -150,17 +150,17 @@
             "subText": "73.20 ₺"
           },
           {
+            "productId": "1007",
+            "productImage": "https://m.media-amazon.com/images/I/71i+Wj3oDAL._AC_SY300_SX300_.jpg",
+            "text": "Cat Food",
+            "subText": "30.60 ₺"
+          },
+          {
             "productId": "1005",
             "productImage": "https://m.media-amazon.com/images/I/51VOI6vjw2L._AC_SX679_.jpg",
             "text": "Bluetooth Mouse",
             "subText": "973.60 ₺",
             "piece": "only 2 in stock"
-          },
-          {
-            "productId": "1007",
-            "productImage": "https://m.media-amazon.com/images/I/71i+Wj3oDAL._AC_SY300_SX300_.jpg",
-            "text": "Cat Food",
-            "subText": "30.60 ₺"
           },
           {
             "productId": "1002",
