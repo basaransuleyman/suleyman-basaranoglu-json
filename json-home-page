@@ -1,5 +1,5 @@
 {
-  "data":{
+  "data": {
     "sections": [
       {
         "type": 0,
@@ -113,58 +113,68 @@
             "productId": "1000",
             "productImage": "https://m.media-amazon.com/images/I/61cSDZpf36L._AC_SY625_.jpg",
             "text": "Sandals",
-            "subText": "304.45",
+            "subText": "304.45 ₺",
             "review": "230 Comments",
             "questions": "13 Answer",
             "rating": "9.6",
-            "share": "Yazlık Sandalet Link"
-          },        {
+            "share": "Yazlık Sandalet Link",
+            "piece": "536"
+          },
+          {
             "productId": "1006",
             "productImage": "https://m.media-amazon.com/images/I/61mvgeTZMvL._AC_SL1500_.jpg",
             "text": "Toy",
-            "subText": "9730.60"
+            "subText": "9730.60 ₺",
+            "piece": "13"
           },
           {
             "productId": "1010",
             "productImage": "https://m.media-amazon.com/images/I/41v2o4UTwjL._AC_SL1009_.jpg",
             "text": "Pen",
-            "subText": "9730.60"
+            "subText": "9730.60 ₺",
+            "piece": "6"
           },
           {
             "productId": "1009",
             "productImage": "https://m.media-amazon.com/images/I/51i5DaalypL._AC_SL1000_.jpg",
             "text": "Box",
-            "subText": "99.90"
+            "subText": "99.90 ₺",
+            "piece": "58"
           },
           {
             "productId": "1008",
             "productImage": "https://m.media-amazon.com/images/I/71kCCMX4bNL._AC_SX569_.jpg",
             "text": "Bag",
-            "subText": "39.30"
-          },
-          {
-            "productId": "1002",
-            "productImage": "https://m.media-amazon.com/images/I/61GuSZ+C3kL._AC_UF894,1000_QL80_.jpg",
-            "text": "Phone 8 X.E",
-            "subText": "14679.90"
+            "subText": "39.30 ₺",
+            "piece": "3"
           },
           {
             "productId": "1003",
             "productImage": "https://m.media-amazon.com/images/I/51VB+CisjDS._AC_SL1003_.jpg",
             "text": "Bunch",
-            "subText": "73.20"
+            "subText": "73.20 ₺",
+            "piece": "35"
           },
           {
             "productId": "1005",
             "productImage": "https://m.media-amazon.com/images/I/51VOI6vjw2L._AC_SX679_.jpg",
             "text": "Bluetooth Mouse",
-            "subText": "9730.60"
+            "subText": "9730.60 ₺",
+            "piece": "2"
           },
           {
             "productId": "1007",
             "productImage": "https://m.media-amazon.com/images/I/71i+Wj3oDAL._AC_SY300_SX300_.jpg",
             "text": "Cat Food",
-            "subText": "30.60"
+            "subText": "30.60 ₺",
+            "piece": "11"
+          },
+          {
+            "productId": "1002",
+            "productImage": "https://m.media-amazon.com/images/I/61GuSZ+C3kL._AC_UF894,1000_QL80_.jpg",
+            "text": "Phone 8 X.E",
+            "subText": "14679.90 ₺",
+            "soldOutText": "Sold Out"
           }
         ]
       },
