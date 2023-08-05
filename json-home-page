@@ -42,7 +42,7 @@
         "type": 1,
         "sectionData": [
           {
-            "image": "https://images.unsplash.com/photo-1549482199-bc1ca6f58502?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
+            "image": "https://m.media-amazon.com/images/I/71DLmIKiPML._AC_SL1500_.jpg",
             "navigationData": "101"
           },
           {
@@ -50,7 +50,7 @@
             "navigationData": "102"
           },
           {
-            "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "image": "https://m.media-amazon.com/images/I/71FbxVUAVyL._AC_SL1500_.jpg",
             "navigationData": "101"
           },
           {
@@ -67,7 +67,7 @@
             "productId": "1000",
             "productImage": "https://m.media-amazon.com/images/I/71fiO3YqQwL._AC_SY695_.jpg",
             "text": "Shoe",
-            "subText": "1200.00 ₺",
+            "subText": "1200.40 ₺",
             "review": "230 Comments",
             "questions": "13 Answer",
             "rating": "9.6",
