@@ -1,6 +1,7 @@
   {
     "data": {
       "productLimit": 8,
+"totalCount":16,
       "listResponse": [
         {
           "productId": "1000",
