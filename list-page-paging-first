@@ -1,6 +1,6 @@
 {
   "data": {
-    "productLimit": 4,
+    "productLimit": 8,
     "listResponse": [
       {
         "productId": "1000",
