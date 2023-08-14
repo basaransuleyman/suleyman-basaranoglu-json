@@ -1,12 +1,12 @@
 {
   "data": {
     "productLimit": 8,
-"totalCount":16,
+    "totalCount": 16,
     "listResponse": [
       {
         "productId": "1000",
         "productImage": "https://m.media-amazon.com/images/I/71fiO3YqQwL._AC_SY695_.jpg",
-            "text": "Shoe",
+        "text": "Shoe",
         "subText": "304.45",
         "review": "230 Comments",
         "questions": "13 Answer",
@@ -15,7 +15,7 @@
       {
         "productId": "1004",
         "productImage": "https://m.media-amazon.com/images/I/613ETE5JatL._AC_SL1500_.jpg",
-    "text": "Samsung Galaxy Z Fold5 12 GB RAM, 512 GB Memory, Ice Blue",
+        "text": "Samsung Galaxy Z Fold5 12 GB RAM, 512 GB Memory, Ice Blue",
         "subText": "9730.60",
         "review": "30 Comments",
         "questions": "3 Answer",
@@ -24,7 +24,7 @@
       {
         "productId": "1001",
         "productImage": "https://m.media-amazon.com/images/I/61bEwLtAx0L._AC_SL1000_.jpg",
-            "text": "Watch",
+        "text": "Watch",
         "subText": "99.90",
         "review": "23 Comments",
         "questions": "1 Answer",
@@ -32,8 +32,8 @@
       },
       {
         "productId": "1002",
-         "productImage": "https://m.media-amazon.com/images/I/51VOI6vjw2L._AC_SX679_.jpg",
-            "text": "Bluetooth Mouse",
+        "productImage": "https://m.media-amazon.com/images/I/51VOI6vjw2L._AC_SX679_.jpg",
+        "text": "Bluetooth Mouse",
         "subText": "14679.90",
         "review": "30 Comments",
         "questions": "23 Answer",
@@ -42,7 +42,7 @@
       {
         "productId": "1003",
         "productImage": "https://tecknet.com/cdn/shop/files/Bluetooth-Headset_grande.jpg?v=1685792484",
-            "text": "Headphone Bluetooth",
+        "text": "Headphone Bluetooth",
         "subText": "73.20",
         "review": "3 Comments",
         "questions": "2 Answer",
@@ -50,8 +50,8 @@
       },
       {
         "productId": "1005",
-       "productImage": "https://m.media-amazon.com/images/I/71wKdxyeDUL._AC_SL1500_.jpg",
-            "text": "Controller",
+        "productImage": "https://m.media-amazon.com/images/I/71wKdxyeDUL._AC_SL1500_.jpg",
+        "text": "Controller",
         "subText": "9730.60",
         "review": "30 Comments",
         "questions": "23 Answer",
@@ -59,8 +59,8 @@
       },
       {
         "productId": "1001",
-         "productImage": "https://m.media-amazon.com/images/I/51i5DaalypL._AC_SL1000_.jpg",
-            "text": "Box",
+        "productImage": "https://m.media-amazon.com/images/I/51i5DaalypL._AC_SL1000_.jpg",
+        "text": "Box",
         "subText": "99.90",
         "review": "30 Comments",
         "questions": "23 Answer",
@@ -68,8 +68,8 @@
       },
       {
         "productId": "1002",
-          "productImage": "https://m.media-amazon.com/images/I/416hJHFaGML._AC_.jpg",
-            "text": "Bag",
+        "productImage": "https://m.media-amazon.com/images/I/416hJHFaGML._AC_.jpg",
+        "text": "Bag",
         "subText": "14679.90",
         "review": "230 Comments",
         "questions": "13 Answer",
