@@ -1,5 +1,4 @@
 {
-  "data": {
     "productLimit": 8,
     "totalCount": 16,
     "listResponse": [
@@ -76,5 +75,4 @@
         "rating": "9.6"
       }
     ]
-  }
 }
