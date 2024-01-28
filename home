@@ -2,7 +2,6 @@
   "sections": [
     {
       "type": 1,
-      "id":36343,
       "sectionData": [
         {
           "image": "https://img.freepik.com/free-psd/sales-discount-facebook-template_23-2149959351.jpg?w=2000&t=st=1691265826~exp=1691266426~hmac=f6e155cc1969aea6effca77ee77dd25e4876212705a9720199db4eee01ad417f",
@@ -24,8 +23,7 @@
     },
     {
       "type": 2,
-      "id":77343,
-      "sectionTitle": "Slidable Products",
+            "sectionTitle": "Slidable Products",
       "sectionData": [
         {
           "productId": "1000",
@@ -77,7 +75,6 @@
     },
     {
       "type": 4,
-       "id":46343,
       "sectionTitle": "Vertical Products",
       "sectionData": [
         {
