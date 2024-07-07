@@ -3,6 +3,15 @@
     {
       "name": "Anlaşmalı Marketler",
       "sections": [
+       {
+          "data": {
+            "type": "staticText",
+            "content": {
+              "text": "Ödeme yapacağınız anlaşmalı markayı seçin",
+              "subText": "Depozito cüzdanınızdaki bakiye ile anlaşmalı noktalarda ve sanal pos cihazlarında karekod ile kolaylıkla ödeme yapabilirsiniz."
+            }
+          }
+        },
         {
           "data": {
             "type": "image",
@@ -12,15 +21,6 @@
                 "text": "Anlaşmalı marketlerde anında %5 nakit iade!"
               }
             ]
-          }
-        },
-        {
-          "data": {
-            "type": "staticText",
-            "content": {
-              "text": "Ödeme yapacağınız anlaşmalı markayı seçin",
-              "subText": "Depozito cüzdanınızdaki bakiye ile anlaşmalı noktalarda ve sanal pos cihazlarında karekod ile kolaylıkla ödeme yapabilirsiniz."
-            }
           }
         },
         {
