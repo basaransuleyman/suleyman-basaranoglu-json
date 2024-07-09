@@ -16,15 +16,6 @@
         },
         {
           "data": {
-            "type": "staticText",
-            "content": {
-              "text": "Ödeme yapacağınız anlaşmalı markayı seçin",
-              "subText": "Depozito cüzdanınızdaki bakiye ile anlaşmalı noktalarda ve sanal pos cihazlarında karekod ile kolaylıkla ödeme yapabilirsiniz."
-            }
-          }
-        },
-        {
-          "data": {
             "type": "marketList",
             "items": [
               {
@@ -52,6 +43,15 @@
                 "actionUrl": "campaign/happycenter"
               }
             ]
+          }
+        },
+   {
+          "data": {
+            "type": "staticText",
+            "content": {
+              "text": "Ödeme yapacağınız anlaşmalı markayı seçin",
+              "subText": "Depozito cüzdanınızdaki bakiye ile anlaşmalı noktalarda ve sanal pos cihazlarında karekod ile kolaylıkla ödeme yapabilirsiniz."
+            }
           }
         },
         {
