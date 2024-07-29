@@ -1,0 +1,24 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": 1,
+        "name": "Laptop",
+        "price": 999.99,
+        "warranty": "2 years"
+      },
+      {
+        "id": 2,
+        "name": "Clothes",
+        "price": 300.99,
+        "warranty": "3 years"
+      }
+    ],
+    "items": {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 699.99,
+      "warranty": "1 year"
+    }
+  }
+}
