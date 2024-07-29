@@ -69,7 +69,7 @@
             ],
             "leftIcon": "icon1",
             "rightIcon": "icon2",
-            "text": "cardText",
+            "text": "All cases",
             "cardSubText": "4.3",
             "cardSubIcon": "favorites.png"
           },
@@ -82,14 +82,13 @@
               }
             ],
             "leftIcon": "icon1",
-            "rightIcon": "icon2",
-            "text": "cardText",
+            "text": "Just, left badge with left icon",
             "cardSubText": "3.2",
             "cardSubIcon": "favorites.png"
           },
           {
             "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "text": "cardText",
+            "text": "Without badges and icons",
             "cardSubText": "3.9"
           }
         ]
