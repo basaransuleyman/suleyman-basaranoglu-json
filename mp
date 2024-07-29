@@ -59,11 +59,11 @@
             "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=3484&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "badges": [
               {
-                "text": "badge1",
+                "text": "leftBadge",
                 "icon": "https://i.hizliresim.com/rawfdju.png"
               },
               {
-                "text": "badge2",
+                "text": "rightBadge",
                 "icon": "https://i.hizliresim.com/2psw5ds.png"
               }
             ],
@@ -77,15 +77,20 @@
             "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "badges": [
               {
-                "text": "badge1",
+                "text": "leftBadge",
                 "icon": "https://i.hizliresim.com/rawfdju.png"
               }
             ],
             "leftIcon": "icon1",
             "rightIcon": "icon2",
             "text": "cardText",
-            "cardSubText": "4.3",
+            "cardSubText": "3.2",
             "cardSubIcon": "favorites.png"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "text": "cardText",
+            "cardSubText": "3.9"
           }
         ]
       }
