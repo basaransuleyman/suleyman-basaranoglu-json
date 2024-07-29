@@ -54,6 +54,7 @@
     {
       "data": {
         "type": "2",
+        "sectionTitle": "First Horizontal Section",
         "items": [
           {
             "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=3484&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -98,6 +99,7 @@
     {
       "data": {
         "type": "3",
+        "sectionTitle": "First Vertical Section",
         "items": [
           {
             "image": "https://plus.unsplash.com/premium_photo-1679913792906-13ccc5c84d44?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -146,5 +148,5 @@
         ]
       }
     }
-    ]
+  ]
 }
