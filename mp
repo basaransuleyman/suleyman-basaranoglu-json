@@ -9,6 +9,12 @@
           },
           {
             "image": "https://www.shutterstock.com/shutterstock/photos/2480401029/display_1500/stock-vector-offer-sunburst-ray-banner-special-offer-bubble-sticker-discount-banner-shape-sale-coupon-chat-2480401029.jpg"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2020/02/28/14/53/banner-4887650_1280.jpg"
+          },
+          {
+            "image": "https://www.shutterstock.com/shutterstock/photos/2245509829/display_1500/stock-photo-unrecognizable-kid-demonstrating-carton-placard-with-save-the-planet-inscription-during-2245509829.jpg"
           }
         ]
       }
