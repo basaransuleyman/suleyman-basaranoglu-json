@@ -89,7 +89,8 @@
           {
             "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "text": "Without badges and icons",
-            "cardSubText": "3.9"
+            "cardSubText": "3.9",
+            "cardSubIcon": "asdasd"
           }
         ]
       }
